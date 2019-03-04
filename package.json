@@ -1,0 +1,22 @@
+{
+  "name": "hack-the-machine",
+  "version": "1.0.0",
+  "description": "htm-bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slabrador09/hack-the-machine.git"
+  },
+  "author": "slabrador09@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slabrador09/hack-the-machine/issues"
+  },
+  "homepage": "https://github.com/slabrador09/hack-the-machine#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
