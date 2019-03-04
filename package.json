@@ -4,6 +4,7 @@
   "description": "htm-bots",
   "main": "index.js",
   "scripts": {
+    "start": "node htm-bot/app.js",
     "test": "mocha"
   },
   "repository": {
