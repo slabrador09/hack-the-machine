@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/slabrador09/hack-the-machine#readme",
   "dependencies": {
+    "ask-sdk": "^2.4.0",
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/node": "^11.10.4"
   }
 }
